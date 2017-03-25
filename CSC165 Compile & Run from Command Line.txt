@@ -1,0 +1,4 @@
+cd C:\Users\ninta\workspace\CSC 165 - A2
+javac -d bin -sourcepath src src\a2\Starter.java
+cd bin
+java a2.Starter
